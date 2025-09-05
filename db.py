@@ -73,7 +73,7 @@ class Database:
     def _print_startup_message(self):
         """Print formatted startup message"""
         print(f"\n{Fore.CYAN}{'='*50}")
-        print(f"{Fore.CYAN}🚀 UGDEV 2.0 Uploader Bot - Database Initialization")
+        print(f"{Fore.CYAN}🚀 STUDYVERSE 2.0 Uploader Bot - Database Initialization")
         print(f"{'='*50}{Style.RESET_ALL}\n")
 
     def _initialize_database(self):
@@ -441,7 +441,7 @@ class Database:
 
 # 🔰 Startup Message
 print(f"\n{Fore.CYAN}{'='*50}")
-print(f"🤖 Initializing UGDEV Uploader Bot Database")
+print(f"🤖 Initializing STUDYVERSE Uploader Bot Database")
 print(f"{'='*50}{Style.RESET_ALL}\n")
 
 # 🔌 Connect to DB with error handling
